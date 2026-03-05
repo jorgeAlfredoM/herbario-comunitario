@@ -1,0 +1,5 @@
+cd OneDrive\Desktop
+cd "Hervario digital"
+dir
+app.py
+python -m streamlit run app.py
